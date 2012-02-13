@@ -1,23 +1,26 @@
 beta 3
--made version history dynamic!
--fixed playing while shuffling is on
--changed some refresh status update wording
--added play button to all album covers
--fixed play all from album detail page
--cleaned up prompts
--cleaned up login dialog and added captcha support
+This release includes the following changes:
+- made version history dynamic!
+- fixed playing while shuffling is on
+- changed some refresh status update wording
+- added play button to all album covers
+- fixed play all from album detail page
+- cleaned up prompts
+- cleaned up login dialog and added captcha support
 
 beta 2
--trial version
--bug fixes
--switched to using the busy indicator in the system tray
--better status updating when a refresh is happening
--app changes its theme with the system theme
--pause, play, skip next buttons on the App Bar
--App menu options include: now playing, refresh playlists, refresh last added, refresh all, sign out, and about
--wont sync playlist songs that aren't on the phone
--tested with 20,000 songs in the database
--first run prompts for login and asks if the user would like to refresh all
+This release includes the following changes:
+- trial version
+- bug fixes
+- switched to using the busy indicator in the system tray
+- better status updating when a refresh is happening
+- app changes its theme with the system theme
+- pause, play, skip next buttons on the App Bar
+- App menu options include: now playing, refresh playlists, refresh last added, refresh all, sign out, and about
+- wont sync playlist songs that aren't on the phone
+- tested with 20,000 songs in the database
+- first run prompts for login and asks if the user would like to refresh all
 
 beta 1
+This release includes the following changes:
 -inital public beta
