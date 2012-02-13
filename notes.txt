@@ -1,3 +1,9 @@
+beta 4
+This release includes the following changes:
+- fixed a problem with shuffling
+- added Genres
+- fixed a problem with skip back not working
+
 beta 3
 This release includes the following changes:
 - made version history dynamic!
