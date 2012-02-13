@@ -3,6 +3,7 @@ This release includes the following changes:
 - fixed a problem with shuffling
 - added Genres
 - fixed a problem with skip back not working
+- put status, playing, pause, etc back on player view
 
 beta 3
 This release includes the following changes:
