@@ -7,6 +7,7 @@ This release includes the following changes:
 - removed stop button
 - added navigation when tapping on artist/album in now playing
 - show no art cover until agent reports what song is being started
+- added prompt to verify refresh all in case of accidental tap
 
 beta 3
 This release includes the following changes:
