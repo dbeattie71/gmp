@@ -5,6 +5,7 @@ This release includes the following changes:
 - fixed a problem with skip back not working
 - put status, playing, pause, etc back on player view
 - removed stop button
+- added navigation when tapping on artist/album in now playing
 
 
 beta 3
