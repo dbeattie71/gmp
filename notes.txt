@@ -6,7 +6,7 @@ This release includes the following changes:
 - put status, playing, pause, etc back on player view
 - removed stop button
 - added navigation when tapping on artist/album in now playing
-
+- show no art cover until agent reports what song is being started
 
 beta 3
 This release includes the following changes:
