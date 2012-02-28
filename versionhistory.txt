@@ -1,0 +1,55 @@
+1.4
+This release includes the following changes:
+- New tiles.
+- Added artist art background to now playing page.
+- Added application live tile.
+- Added more detail to refresh process.
+- Added FirstRun and FirstRunAfterUpdate logic.
+- Improved performance in refresh process.
+- Un-pause resumes correctly.
+- Added rewind and fast forward.
+- Fixed volume level problem.
+- Prompt user for refreshing art.
+- Created separate option for refreshing art.
+- Added News to About page to keep users informed of updates etc.
+- Fixed problem leaving AudioPlayer in an error state.
+- AudioPlayer process improvments.
+- Music hub integration works like phone's player, i.e. play a song from history that was part of a playlist, the entire playlist will be played.
+- When navigating from Music Hub, song starts playing now.
+- Added Home menu option to Now Playing.
+- Removed 'refresh all' and 'refresh last added' as a much better sync option is in place.
+- Changed trial to contain advertisments and sync 250 songs since 'refresh last added' is gone.
+      
+1.3
+This release includes the following changes:
+- Fixed a problem with shuffling.
+- Added Genres.
+- Fixed a problem with skip back not working.
+- Put agent status on now playing page.
+- Removed stop button.
+- Added navigation when tapping on artist/album in now playing.
+- Show no_album_art cover until agent reports what song is being started.
+- Added prompt to verify refresh all in case of accidental tap.
+
+1.2
+This release includes the following changes:
+- Fixed playing while shuffling is on.
+- Changed some refresh status update wording.
+- Added play button to all album covers.
+- Fixed play all from album detail page.
+- Using system dialogs when possible now.
+- Cleaned up login dialog and added captcha support.
+
+1.1
+This release includes the following changes:
+- Added trial version.
+- Switched to using the system tray busy indicator.
+- Better status updating when a refresh is happening.
+- App changes its theme with the system theme.
+- Pause, play, skip next buttons on the App Bar.
+- App menu options include: now playing, refresh playlists, refresh last added, refresh all, sign out, and about.
+- Won't sync playlist songs that aren't on the phone.
+- First run now prompts for login and asks if the user would like to refresh all.
+
+1.0
+- Initial public release.
