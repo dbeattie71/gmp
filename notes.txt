@@ -1,3 +1,6 @@
+03/07/2012
+Aritst & Album pin to start completed.
+
 03/04/2012
 Tracking down a bug that prevents some users from syncing music.
 
