@@ -1,11 +1,15 @@
+03/14/2010
+-Completed all item pinning except songs.
+-Investigating issues with switch to Google Play.
+
 03/07/2012
-Aritst & Album pin to start completed.
+-Aritst & Album pin to start completed.
 
 03/04/2012
-Tracking down a bug that prevents some users from syncing music.
+-Tracking down a bug that prevents some users from syncing music.
 
 03/01/2012
-1.4 has been published and should show up in the marketplace within 24 hours.
+-1.4 has been published and should show up in the marketplace within 24 hours.
 
 02/28/2012
-1.4 was submitted to the App Hub.
+-1.4 was submitted to the App Hub.
