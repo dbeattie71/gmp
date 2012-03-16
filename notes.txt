@@ -1,3 +1,8 @@
+03/16/2010
+-Fixed bugs with change to Google Play.
+-Finished repeat/repeat once implementation.
+-New shuffle & repeat buttons.
+
 03/14/2010
 -Completed all item pinning except songs.
 -Investigating issues with switch to Google Play.
