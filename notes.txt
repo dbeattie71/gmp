@@ -1,9 +1,12 @@
-03/16/2010
+03/22/2012
+-Version 1.5 update, submitted to marketplace.
+
+03/16/2012
 -Fixed bugs with change to Google Play.
 -Finished repeat/repeat once implementation.
 -New shuffle & repeat buttons.
 
-03/14/2010
+03/14/2012
 -Completed all item pinning except songs.
 -Investigating issues with switch to Google Play.
 
