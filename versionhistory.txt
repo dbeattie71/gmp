@@ -1,3 +1,23 @@
+1.5
+This release includes the following changes:
+- Added Settings: reset last sync time, delete album art, delete artist art.
+- Fixed issues with switch to Google Play.
+- Added is network available check.
+- Auth check when a track is played, will change later with offline listening.
+- Changed sign in to sign in/sign out.
+- Combined Play/Pause button on AppBar.
+- Fixed title on Genre detail page.
+- For now, artist art on now playing page won't download if on 3G, it causes buffering/skipping.
+- Added repeat playlist and repeat track functionality.
+- New shuffle and repeat buttons.
+- Changed Google Music references to Google Play.
+- Removed 250 song limit from trial, trial is fully functional but with ads.
+- Songs page has shuffle all now.
+- Smaller artist art for artist pinning.
+- Syncing deltas will count by 1's and not 50's, was always showing 0.
+- Added pinning to start menu for artist, albums, songs, playlists, and genres.
+- bug fixes and performance improvments.
+
 1.4
 This release includes the following changes:
 - New tiles.
