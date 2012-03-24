@@ -1,3 +1,7 @@
+03/23/2010
+-Fixing a performance issue causing problems for large library users.
+-Fixing some issues with the grouping of artists and albums.
+
 03/22/2012
 -Version 1.5 update, submitted to marketplace.
 
