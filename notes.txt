@@ -4,6 +4,7 @@
 
 03/22/2012
 -Version 1.5 update, submitted to marketplace.
+-If you're on version 1.4 and can't sign in, email me, support@gooroovster.com, I have a fix.
 
 03/16/2012
 -Fixed bugs with change to Google Play.
