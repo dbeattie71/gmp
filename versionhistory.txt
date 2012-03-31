@@ -1,3 +1,15 @@
+1.6
+This release includes the following changes:    
+- Minor bug fixes.
+- Fixed problem causing songs not to list for large library users 15k+.
+- Fixed some issues with shuffle.
+- Optimized music manager, made memory footprint for audio agent smaller preparing for 256MB devices.
+- Tested app on 256MB emulator.
+- On import Artist and Album comparisons  are case in-sensitive now.
+- Database optimizations and improvements.
+- Optimized image downloading.
+- Tried to improve album art quality.
+
 1.5
 This release includes the following changes:
 - Added Settings: reset last sync time, delete album art, delete artist art.
