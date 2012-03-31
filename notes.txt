@@ -1,4 +1,8 @@
-03/23/2010
+03/31/2012
+-Fixed some minor bugs and optimized for 256MB devices.
+-1.6 submitted for certification.
+
+03/23/2012
 -Fixing a performance issue causing problems for large library users.
 -Fixing some issues with the grouping of artists and albums.
 
