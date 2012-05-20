@@ -1,6 +1,5 @@
 05/20/2012
--I want to add offline listenting and playlist support but really really want to fix a couple nagging bugs.  
-They're really hard to re-create so fixing them has been difficult.
+-I want to add offline listenting and playlist support but really really want to fix a couple nagging bugs.  They're really hard to re-create so fixing them has been difficult.
 
 04/20/2012
 -Hopefully fixed some nagging bugs.
