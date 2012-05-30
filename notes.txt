@@ -1,3 +1,7 @@
+05/30/2012
+-I think I've found the problem to the annoying position timer tick error.
+-I've also found the problem that causes some of the Audio Error errors to occur.
+
 05/20/2012
 -I want to add offline listenting and playlist support but really really want to fix a couple nagging bugs.  They're really hard to re-create so fixing them has been difficult.
 
